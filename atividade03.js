@@ -8,7 +8,7 @@ function adicionarConvidado (nome) {
     console.log(nome + " foi adicionado(a) lista!");
 }
 
-adicionarConvidado ("Carlos")
+adicionarConvidado ("julia")
 adicionarConvidado ("Ana")
 adicionarConvidado ("Beatriz")
 
