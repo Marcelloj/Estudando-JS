@@ -27,7 +27,7 @@ for(let i = 0; i < nome.length; i ++) {
     console.log("Seu nome é: " + nome[i])
 }
 
-// Exercícios 5: Funções, Strings e Math
+// Exercícios 4: Funções, Strings e Math
 // Crie uma função que aceita um string representando um horário de 24 horas (por exemplo, "14:30").
 // A função deve retornar uma string que coberta o horario para o fromato de 12 horas (por exemplo, "2:30 PM").
 // Use o objeto math para auxiliar nesta conversão.
