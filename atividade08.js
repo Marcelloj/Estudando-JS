@@ -1,5 +1,5 @@
 //  Crie um objeto de pedido que contenha informações sobre o cliente 
-// (que será um outro objeto aninhado).
+// (que será um outro objeto alinhado).
 
 const pedido = {
     id: 1,

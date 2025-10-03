@@ -12,3 +12,4 @@ function filtrarPorTurma(listaDeEstudantes, turmaDesejada) {
 }
 
 filtrarPorTurma(estudantes, "B");
+filtrarPorTurma(estudantes, "A");
